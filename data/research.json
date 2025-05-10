@@ -1,0 +1,7 @@
+[
+  {
+    "title": "Automated Detection of Hardcoded Secrets in GitHub Repositories",
+    "description": "A system that integrates Gitleaks with contextual analysis for proactive secret detection and compliance.",
+    "pdf": "/research/automated_secrets_detection.pdf"
+  }
+]

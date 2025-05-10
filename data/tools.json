@@ -1,0 +1,7 @@
+[
+  {
+    "name": "SecureScan",
+    "description": "A CLI tool for scanning repositories and identifying misconfigurations and secrets.",
+    "repo": "https://github.com/yourusername/securescan"
+  }
+]
